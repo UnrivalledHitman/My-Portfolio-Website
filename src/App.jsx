@@ -368,7 +368,7 @@ export default function App() {
                 </span>
               </div>
               <a className="inline" href="/wesad-research.pdf" download>
-                READ_PAPER <Download size={15} />
+                {/* READ_PAPER <Download size={15} /> */}
               </a>
             </motion.article>
           </div>
